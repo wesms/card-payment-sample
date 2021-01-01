@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/mercadopago/card-payment-sample)
+
 # Card payment processing with Checkout API
 
 ### This is a simple example of how you can accept credit card payments by integrating our [Checkout API](https://developers.mercadopago.com/en/guides/payments/api/introduction)
